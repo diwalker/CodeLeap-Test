@@ -9,11 +9,11 @@ Posts: Users can create, edit, and delete posts.
 Responsive Interface: The interface is designed to be user-friendly on both mobile and desktop devices.
 
 # Technologies Used 🛠️
-React
-Styled Components
-Redux
-React Router
-Redux Toolkit
+React, 
+Styled Components, 
+Redux, 
+React Router, 
+Redux Toolkit, 
 
 # Prerequisites 📋
 Node.js installed
