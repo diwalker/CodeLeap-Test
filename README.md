@@ -4,8 +4,10 @@
 This project was developed in React using Styled Components. It is a simple network where users can log in with a username, create posts, edit, and delete their own posts, using the @CodeLeap test API. The application uses Redux for state management and interacts with the API to perform CRUD (Create, Read, Update, Delete) operations on the posts.
 
 ## Features ✨
-Login and Logout: Users can log in to the application and log out, ensuring that logging in again is only possible by logging out the username.<br>
+Login and Logout: Users can log in to the application and log out, ensuring that logging in again is only possible by logging out the username.
+
 Posts: Users can create, edit, and delete posts.<br>
+
 Responsive Interface: The interface is designed to be user-friendly on both mobile and desktop devices.
 
 ## Technologies Used 🛠️
@@ -33,10 +35,8 @@ Start the application: ```npm run dev```
 And open the Browser and go to http://localhost:5173/ to see the application running.
 
 # How to Use 📚
-Login: Go to the signup page and enter a username.
-After signing up, you will be redirected to the main page.
+Login: Go to the signup page and enter a username. After signing up, you will be redirected to the main page.
 
 Create Posts: On the main page, enter a title and content to create a new post.
 
 Edit and Delete Posts: Created posts can be edited or deleted by clicking the appropriate icons and can also be canceled by pressing the ESC key.
-Open the browser and go to http://localhost:5173/ to see the application running.
