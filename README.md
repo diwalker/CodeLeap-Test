@@ -20,7 +20,7 @@ Node.js installed<br>
 npm or yarn installed
 
 ## Steps to run the project 🏃‍♂️
-Open the terminal and follow the commands below:<br> 
+Open the terminal and follow the commands below:<br>
 Clone the repository<br>
 ```git clone https://github.com/diwalker/CodeLeap-Test.git```<br>
 Enter the project directory with the command:<br>
@@ -44,14 +44,3 @@ On the main page, enter a title and content to create a new post.
 Edit and Delete Posts:<br>
 Created posts can be edited or deleted by clicking the appropriate icons and can also be canceled by pressing the ESC key.
 Open the browser and go to http://localhost:5173/ to see the application running.
-
-## How to Use 📚
-Login:<br>
-Go to the signup page and enter a username.
-After signing up, you will be redirected to the main page.
-
-Create Posts:<br>
-On the main page, enter a title and content to create a new post.
-
-Edit and Delete Posts:<br>
-Created posts can be edited or deleted by clicking the appropriate icons and can also be canceled by pressing the ESC key.
