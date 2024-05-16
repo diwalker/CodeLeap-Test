@@ -26,11 +26,10 @@ Clone the repository: ```git clone https://github.com/diwalker/CodeLeap-Test.git
 
 Enter the project directory with the command: ```cd CodeLeap-Test``` <br>
 
-Install dependencies<br>
-```npm install```
+Install dependencies: ```npm install```
 
-Start the application<br>
-```npm run dev```<br>
+Start the application: ```npm run dev```
+
 And open the Browser and go to http://localhost:5173/ to see the application running.
 
 # How to Use 📚
