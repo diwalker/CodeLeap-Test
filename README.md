@@ -21,7 +21,9 @@ npm or yarn installed
 
 ## Steps to run the project 🏃‍♂️
 Open the terminal and follow the commands below: <br>
+
 Clone the repository: ```git clone https://github.com/diwalker/CodeLeap-Test.git``` <br>
+
 Enter the project directory with the command: ```cd CodeLeap-Test``` <br>
 
 Install dependencies<br>
