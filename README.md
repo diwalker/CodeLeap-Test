@@ -1,4 +1,4 @@
-## CodeLeap Test
+# CodeLeap Test
 
 # Project Description
 This project was developed in React using Styled Components. It is a simple network where users can log in with a username, create posts, edit, and delete their own posts, using the @CodeLeap test API. The application uses Redux for state management and interacts with the API to perform CRUD (Create, Read, Update, Delete) operations on the posts.
